@@ -1,0 +1,114 @@
+/**
+ * CSS files with the .module.css suffix will be treated as CSS modules
+ * and scoped locally.
+ */
+
+.hero {
+  padding: 4.5rem 0;
+  position: relative;
+  overflow: hidden;
+
+  /* subtle branded background */
+  background: radial-gradient(1200px 600px at 20% 10%, rgba(100, 116, 139, 0.18), transparent 60%),
+              radial-gradient(900px 500px at 80% 30%, rgba(30, 41, 59, 0.25), transparent 55%);
+}
+
+.heroInner {
+  display: grid;
+  grid-template-columns: 1.2fr 0.8fr;
+  gap: 2.5rem;
+  align-items: center;
+}
+
+.title {
+  font-size: clamp(2.2rem, 4vw, 3.2rem);
+  line-height: 1.05;
+  margin-bottom: 0.75rem;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  opacity: 0.9;
+  max-width: 46ch;
+  margin-bottom: 1.5rem;
+}
+
+.ctas {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.25rem;
+}
+
+.primaryBtn {
+  border-radius: 14px;
+}
+
+.secondaryBtn {
+  border-radius: 14px;
+}
+
+.metaRow {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.metaPill {
+  font-size: 0.85rem;
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  background: rgba(2, 6, 23, 0.06);
+}
+
+.previewCard {
+  border-radius: 18px;
+  border: 1px solid rgba(148, 163, 184, 0.25);
+  background: rgba(2, 6, 23, 0.06);
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.18);
+  overflow: hidden;
+}
+
+.previewTop {
+  display: flex;
+  gap: 8px;
+  padding: 12px 14px;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.18);
+}
+
+.dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+  background: rgba(100, 116, 139, 0.7);
+}
+
+.previewBody {
+  padding: 18px 16px 22px;
+  display: grid;
+  gap: 10px;
+}
+
+.previewLine {
+  height: 12px;
+  border-radius: 10px;
+  background: rgba(100, 116, 139, 0.28);
+}
+
+.previewLineShort {
+  height: 12px;
+  width: 65%;
+  border-radius: 10px;
+  background: rgba(100, 116, 139, 0.22);
+}
+
+/* Mobile */
+@media (max-width: 996px) {
+  .heroInner {
+    grid-template-columns: 1fr;
+  }
+  .heroRight {
+    order: -1;
+  }
+}
