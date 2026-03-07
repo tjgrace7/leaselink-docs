@@ -23,6 +23,8 @@ This role cannot be edited (It would cause lots of issues and potentially make t
 
 ## Property Managers
 
+Here are the default settings for a Property Manager. They can be edited!
+
 Property Managers can:
 - Ask Questions
 - Create Tenants, Contacts, Units, and Owners
