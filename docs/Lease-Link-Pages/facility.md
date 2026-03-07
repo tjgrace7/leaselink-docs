@@ -3,9 +3,9 @@ sidebar_position: 3
 ---
 
 # Create Properties/Units
-The Create Properties Page allows you create Properties and Units to add Tenants too!
+The Create Properties Page allows you create Properties and Units!
 
-You may batch Create Properties and Units in [Settings](./settings.md)
+You may Create Units with a csv file in [Settings](./settings.md)
 
 To Get Started Select Unit or Property to Create: 
 
@@ -34,12 +34,12 @@ Once you have at least 1 Property you can create units!
 
 When Creating a Unit you will need:
 - Unit Suite
-- Unit Street Address (State, City, and Zip are in Property)
+- Unit Street Street Address (State, City, and Zip are in Property, not unit)
 - Unit Square Footage
-- The Property It Belongs to (Each Unit Can Only Belong to 1 Property)
+- The Property it is in(Each Unit Can Only Belong to 1 Property)
 
 ![Docs Version Dropdown](./img/createUnit1.png)
 
-You May Search for Properties in the Select Property Dropdown that appears when you click on it
+You May Search for Properties in the Select Property Dropdown that appears when you click on it.
 
 ![Docs Version Dropdown](./img/createUnit2.png)

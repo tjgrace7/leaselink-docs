@@ -7,7 +7,7 @@ sidebar_position: 1
 
 After Logging into Lease Link you will be taken to the Dashboard.
 
-The Dashboard has 6 Components that we will use to help Master Lease Link:
+The Dashboard has 6 Components:
 - Monthly Answered Questions
 - Tenant Docs Extracted
 - Current Tenants
@@ -19,8 +19,6 @@ The Dashboard has 6 Components that we will use to help Master Lease Link:
 
 This Module Shows how many questions Lease Link answered this month.
 
-This is great to help you know how much Lease Link is helping you out!
-
  ![Docs Version Dropdown](./img/MonthlyQuestions.png)
 
  ## Tenant Docs Extracted
@@ -31,7 +29,7 @@ This is great to help you know how much Lease Link is helping you out!
 
   ## Current Tenants
 
-  This Module Shows the current number of Tenants that are created in Lease Link.
+  This Module Shows the current number of Tenants that are created inside of Lease Link.
 
 ![Docs Version Dropdown](./img/numTenants.png)
 
@@ -45,7 +43,7 @@ This Shows a List of all the Properties in Lease Link. Clicking on a Property wi
 
 ![Docs Version Dropdown](./img/propertyList.png)
 
-You may search for the property you want in the search bar, and if you want to find an archived Property Click: "Show Archived"
+You may search for the property you want in the search bar, and if you want to find an archived Property click, "Show Archived"
 
 ## Previous Messages
 Previous Messages show you the messages that you've previously asked. You may click on any message in this list to go to [Chat Page](./chatPage.md)

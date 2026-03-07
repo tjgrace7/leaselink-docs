@@ -10,7 +10,7 @@ Navigating Lease Link is fairly Simple. There are 5 buttons that will take you d
 
 ## Five Buttons
 
-- Lease Link Logo !-> [Dashboard](./Dashboard.md)
+- Lease Link Logo -> [Dashboard](./Dashboard.md)
 
 ![Docs Version Dropdown](./img/logo.png)
 
@@ -30,14 +30,14 @@ Navigating Lease Link is fairly Simple. There are 5 buttons that will take you d
 ## Search Bar
 The Search Bar will allow you to search for [Owners](./owner.md), [Properties](./property.md), [Tenants](./tenant.md), and [Units](./unit.md).
 
-Simply Type in the Search Bar for the Entity you want, and it will find them. Once click it will take you to that entities page.
+Simply Type in the Search Bar for the owner, property, tenant, or unit that you want to find, and it will find them. Once click it will take you to that entities page.
 
 ![Docs Version Dropdown](./img/appSearch.png)
 
 ## Profile Image
-On the Right hand side of the screen will be a Profile Image or a ? Logo. You can find a couple other settings pages here.
+On the Right hand side of the screen will be a Profile Image or a person icon.
 
-If you hover over the logo (Or Profile Image) it will show 3 more pages
+If you hover over the icon (or Profile Image) it will show 3 more pages:
 - Profile
 - Settings
 - Sign Out
