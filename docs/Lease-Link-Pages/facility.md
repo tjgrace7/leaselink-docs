@@ -29,8 +29,9 @@ Once you add these hit Submit.
 
 ![Docs Version Dropdown](./img/createProperty.png)
 
-## Create Units
-Once you have at least 1 Property you can create units!
+## Create Unit(s)
+
+Once you have at least 1 Property, you can create units individually!
 
 When Creating a Unit you will need:
 - Unit Suite
@@ -43,3 +44,7 @@ When Creating a Unit you will need:
 You May Search for Properties in the Select Property Dropdown that appears when you click on it.
 
 ![Docs Version Dropdown](./img/createUnit2.png)
+
+## Splitting Units
+
+You can split units by editing a unit (see [Unit Page](./unit.md)). Then creating a new unit with the proper square footage. This will allow you to add other tenants and/or leases to the new unit!

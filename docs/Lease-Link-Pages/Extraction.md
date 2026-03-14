@@ -8,6 +8,8 @@ Extraction is taking key terms from the lease to give you a quick look without h
 
 We use the term Extraction instead of the more common term Abstraction because we are extracting it directly from the lease without making alterations!
 
+Extractions are based on documents that are uploaded. The ai searches all the documents for the tenant it is extracting. To Edit Extracted Terms, upload new documents or manually adjust them (Shown in Reviewing Terms).
+
 ## Where to Find Them
 
 There are 3 places to view extracted terms from the lease in Lease Link:

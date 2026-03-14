@@ -19,7 +19,7 @@ Edit the Tenant
 
 ![Docs Version Dropdown](./img/property2.png)
 
-Archive the Tenant
+Click the Trashcan to Archive (Delete) the tenant. This will remove them from the unit and allow you to add another tenant to it.
 
 ![Docs Version Dropdown](./img/property3.png)
 
